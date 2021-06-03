@@ -1,0 +1,5 @@
+*.pyc
+*~
+/vdg/__pycache__
+/vdgestion/__pycache__
+db.sqlite3
